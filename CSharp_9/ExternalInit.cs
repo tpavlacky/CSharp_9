@@ -4,12 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharp_9
+namespace System.Runtime.CompilerServices
 {
-  class Program
-  {
-    static void Main(string[] args)
-    {
-    }
-  }
+  public class IsExternalInit { }
 }
